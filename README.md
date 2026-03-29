@@ -59,7 +59,10 @@ Steps:
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
 
----
+-<img width="1600" height="1460" alt="image" src="https://github.com/user-attachments/assets/7749ec3a-8b8c-436c-851d-4acb55d189a1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e4874a2-4794-441b-a041-6cc8a02e9335" />
+
+--
 
 ## Report
 Your report should include:
